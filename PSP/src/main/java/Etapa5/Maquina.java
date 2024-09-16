@@ -1,4 +1,5 @@
-package Etapa4;
+package Etapa5;
+
 public class Maquina {
     private int agua;
     private int leche;
